@@ -9,29 +9,20 @@ Software Developer | AI (RAG) & Backend Engineering
 </h3>
 
 <p align="center">
-<svg width="100%" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="25%" stop-color="#22C55E"/>
-      <stop offset="50%" stop-color="#A855F7"/>
-      <stop offset="75%" stop-color="#F59E0B"/>
-      <stop offset="100%" stop-color="#38BDF8"/>
-    </linearGradient>
-  </defs>
-
-  <text x="1200" y="35" font-size="20" fill="url(#grad)" font-family="Fira Code, monospace">
-    RAG Architecture • Python • LangChain • OpenAI • Azure OpenAI • FAISS • Pinecone • ChromaDB • Backend APIs • Databases • System Design • Power Apps • Power Automate • Dataverse
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="-2400 0"
-      dur="18s"
-      repeatCount="indefinite" />
-  </text>
-</svg>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/SSMS-2F5597?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Redis-A52A2A?style=for-the-badge&logo=redis&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Azure%20Fabric-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=rest&logoColor=fff"/>
 </p>
+
+
       
 ---
 
@@ -88,11 +79,6 @@ that enhance **operational efficiency** and **business decision-making**.
 - Database Architecture & Optimization
 - REST APIs & Third-Party Integrations
 - Data Processing & ETL Pipelines
-
-### 🏢 Enterprise & Automation
-- Power Apps
-- Power Automate
-- Dataverse
 
 ### 🛠 Tools
 - Git & GitHub
