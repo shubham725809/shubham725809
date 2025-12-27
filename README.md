@@ -1,9 +1,40 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
+
+<p align="center">
+  <img src="assets/shubhgit.gif" width="420"/>
+</p>
+
 <h3 align="center">
 Software Developer | AI (RAG) & Backend Engineering
 </h3>
 
+<p align="center">
+<svg width="100%" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="25%" stop-color="#22C55E"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="75%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <text x="1200" y="35" font-size="20" fill="url(#grad)" font-family="Fira Code, monospace">
+    RAG Architecture • Python • LangChain • OpenAI • Azure OpenAI • FAISS • Pinecone • ChromaDB • Backend APIs • Databases • System Design • Power Apps • Power Automate • Dataverse
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="-2400 0"
+      dur="18s"
+      repeatCount="indefinite" />
+  </text>
+</svg>
+</p>
+      
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -34,6 +65,7 @@ that enhance **operational efficiency** and **business decision-making**.
 🎓 **Bachelor’s Degree**  
 **BML Munjal University**  
 📅 **Graduated: 2024**
+📍 **Score: 8.4/10** 
 
 ---
 
